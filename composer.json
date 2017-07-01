@@ -11,10 +11,11 @@
         "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*",
         "predis/predis": "^1.1"
     },
-    "version":"0.0.1-beta",
+    "version":"0.0.1",
     "autoload": {
         "psr-4": {
             "Eqk\\": "src/Eqk/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
